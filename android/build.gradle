@@ -23,6 +23,8 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 28
+    namespace 'com.cindyu.all_sensors'
+
 
     defaultConfig {
         minSdkVersion 16
